@@ -1464,7 +1464,11 @@ public final class SputnikNodeGraphPanel {
                 }
                 ImGui.separator();
                 if (ImGui.menuItem("Delete Node (X / Del)")) {
-                    deleteSelected(graph);
+                    if (contextMenuNodeId != -1) {
+                        graph.removeNode(contextMenuNodeId);
+                        selectedNodeIds.remove(contextMenuNodeId);
+                        contextMenuNodeId = -1;
+                    }
                 }
             }
             ImGui.endPopup();
@@ -1480,7 +1484,7 @@ public final class SputnikNodeGraphPanel {
             float spawnX = (io.getMousePosX() - originX) / zoom;
             float spawnY = (io.getMousePosY() - originY) / zoom;
 
-            ImGui.textColored(0.4f, 0.8f, 1.0f, 1.0f, "Create: Cosmonautics Nodes");
+            ImGui.textColored(0.4f, 0.8f, 1.0f, 1.0f, "Create Cosmonautics Nodes");
             ImGui.separator();
 
             Map<String, List<INodeHandler>> categories = SputnikNodeRegistry.getByCategory();
