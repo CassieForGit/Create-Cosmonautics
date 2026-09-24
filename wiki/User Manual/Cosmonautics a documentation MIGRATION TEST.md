@@ -1,6 +1,6 @@
 **Introduction into Cosmonautics**
 
-**<img src="images/Documentation Logo.jpg">**
+**<img src="/wiki/images/Documentation Logo.png">**
 
 **Hello there, I am Epok, @x\_the3876 on twitter and @theepokchatter on discord. I prefer to chat on discord.**  
 **I am the author of this documentation, but to not show my full name due to my email name, I asked help to @tysenking on discord, also creator of an in-progress tutorial for the Sputnik Probe, on youtube, to have them make the documentation public as a google doc.**  
