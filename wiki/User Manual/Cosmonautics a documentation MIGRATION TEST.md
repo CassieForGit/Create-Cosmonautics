@@ -1,4 +1,4 @@
-<p align="center" style="font-size:250%"> Intro for the Manual <p>
+<p align="center" style="font-size:250%;"> Intro for the Manual <p>
 
 <img src="/wiki/images/Documentation Logo.png">
 
