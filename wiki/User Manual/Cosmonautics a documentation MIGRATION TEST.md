@@ -14,7 +14,7 @@ I am the author of this documentation, currently there is only me and a video se
 **Computer Craft Usage with Sputnik**
 **and advanced-er things**
 
-I would like to thank the Minecraft devs, the create mod devs, the sable and aeronautics devs, the cosmonautics devs and the fans.**  
+I would like to thank the Minecraft devs, the create mod devs, the sable and aeronautics devs, the cosmonautics devs and the fans.
 I would also like to thank separately the KSP devs, the ad astra devs and the space community.  
 And also Einstein, Newton and all the other cool scientists.
 

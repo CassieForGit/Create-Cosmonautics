@@ -2,4 +2,4 @@
 
 ## state:almost unusable
 
-if you want to contribute, you can either dm me or fork from this fork.
+if you want to contribute, you can either dm me or fork from this.
