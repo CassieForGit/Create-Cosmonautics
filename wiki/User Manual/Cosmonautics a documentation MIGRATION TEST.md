@@ -11,6 +11,7 @@ I am the author of this documentation, currently there is only me and a video se
 **How to make a Rocket Ship**  
 **Orbital mechanics for earth and other celestial bodies**  
 **Basic and Advanced Sputnik commands, with blueprints**  
+**Computer Craft Usage with Sputnik**
 **and advanced-er things**
 
 I would like to thank the Minecraft devs, the create mod devs, the sable and aeronautics devs, the cosmonautics devs and the fans.**  
