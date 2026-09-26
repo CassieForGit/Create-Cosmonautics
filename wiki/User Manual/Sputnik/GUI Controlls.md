@@ -6,7 +6,7 @@ The Sputnik's main way of programing is via blocks. Easy, Quick and Intuitive.
 
 if you Interract with the sputnik, you'll open it's Graph \(along 3 connected nodes, the deafults.\)
 
-<img src="/images/Empty Sputnik Interface.png">
+<img src="/wiki/images/Empty Sputnik Interface.png">
 
 <p style="font-size=75%;"> note that results may vary between new and old versions. </p>
 
