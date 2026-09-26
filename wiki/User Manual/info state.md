@@ -14,7 +14,7 @@ Sputnik:
 
     Explain most if not all nodes.
 
-    Start ComputerCraft \(Tweaked\) Chapter
+    Start ComputerCraft (Tweaked) Chapter
 
 Start Physics Chapter:
 
