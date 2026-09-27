@@ -1,7 +1,8 @@
-# **State:** almost usuable
+# **State:** usuable
 
-Many things about the Cosmonautics mod still are Unexplained, which is why this wiki was created. However it is being recreated from scratch.
-if you want to contribute, you can either dm me or fork from this.
+Progress has been going rapidly! In just one commit the basic GUI Controlls have been explained and the nodes too! However there's science to do, and Science Is Fun. We do what we must, because, we can. For the good of all of us. but The Future Starts With You, however i'm an Accent Beyond and infact the documentation is Almost at Fifty Percent
+
+if you want to contribute, you can either dm me or fork from this. 
 
 ## CHECKLIST: 
 
@@ -11,8 +12,6 @@ GUI:
 
 
 Sputnik:
-
-    Explain most if not all nodes.
 
     Start ComputerCraft (Tweaked) Chapter
 
@@ -30,4 +29,18 @@ Start Physics Chapter:
     
     BIG LAUNDRY
 
-[//]: # (Mandatory Phineas And Ferb joke.)
+Start Blocks :
+
+    Thrusters
+
+    Gyrodyne
+
+    Cool displays
+
+    Cables
+
+    and so on
+
+Start Custom Desing Studio (CSD) .
+
+[//]: # (Mandatory Phineas And Ferb joke, please keep it in)

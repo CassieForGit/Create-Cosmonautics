@@ -19,3 +19,5 @@ I would also like to thank separately the KSP devs, the ad astra devs and the sp
 And also Einstein, Newton and all the other cool scientists.
 
 **Since this is a documentation, I'll have the subjects separated.**
+
+Please Checkout <a href="/wiki/User Manual/Sputnik/GUI Controlls.md">GUI Controlls </a> for the pure basics of the sputnik.
