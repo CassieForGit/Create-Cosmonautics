@@ -8,7 +8,7 @@ if you want to contribute, you can either dm me or fork from this.
 
 GUI:
 
-    The Missing Options
+    Custom Design Screen
 
 
 Sputnik:
@@ -41,6 +41,5 @@ Start Blocks :
 
     and so on
 
-Start Custom Desing Studio (CSD) .
 
 [//]: # (Mandatory Phineas And Ferb joke, please keep it in)
